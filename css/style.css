@@ -1,0 +1,131 @@
+body{
+    font-family: 'Montserrat',sans-serif;
+    margin: 0 0px;
+    
+  }
+  
+  header div.menu{
+    height: 134px;
+    background: rgba(0, 0, 0, 0.6)
+  }
+  
+  header div.menu a img{
+    display:block;
+    padding-top:50px;
+    padding-left: 100px;
+  }
+  
+  header nav ul{
+    list-style-type: none;
+    padding-right: 50px;
+  }
+  
+  header nav ul li{
+    display: inline-block;
+    margin-right:50px;
+  }
+  
+  header nav ul li a{
+    color:#fff;
+    font-size:20px;
+    text-decoration: none;
+  }
+  
+  header nav ul li a:hover {
+    color:#F45555;
+    text-decoration:underline ;
+  }
+  
+  header div.call-to h1{
+    margin-top: 250px;
+    margin-bottom:0px;
+    text-align: center;
+    color:#fff;
+    font-size: 72px;
+    font-weight: bold;
+    
+  }
+  
+  header div.call-to h1 span{
+    color:#F45555;
+  }
+  
+  header div.call-to p{
+    color:#fff;
+    font-size: 24px;
+    text-align:center;
+    margin-top:20px;
+    margin-left: 30px;
+  }
+  
+  /*стили второй странички*/
+    header.genera{
+        height: 967px;
+        background-image:url(../img/art23.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+    }
+  
+
+  header div.call-to p span {
+    color: #F45555;
+    text-align: center;
+    margin: 0 auto;
+  }
+  /*3*/
+  header div.call-to p.textgen{
+  margin-top: 250px;
+  margin-bottom:10px;
+  text-align: center;
+  color:#fff;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+div.textgen{
+ background-color:rgba(0, 0, 0, 0.6);
+}
+div.textgen a {
+  color:red;}
+  
+  /*стили 4 странички*/
+  header.exe {
+    height: 967px;
+    background-image: url(../img/masters.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  } 
+  
+  header div.call-to p.exe {
+    margin-top: 250px;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    color: rgb(187, 186, 186);
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  div.exe {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  
+  /*5*/
+  
+  div.shop{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    color: rgb(187, 186, 186);
+    font-size: 40px;
+    font-weight: bold;
+  }
+  div.ord {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  
